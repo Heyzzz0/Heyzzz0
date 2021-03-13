@@ -4,5 +4,5 @@
 <h3 align="center">Основные фреймворки</h3>
 <p align="center">
   <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-262626?style=for-the-badge&logo=discordjs">
-  <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-262626?style=for-the-badge&logo=discordjs">
+  <a href="https://www.npmjs.com/package/mongoose"><img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-262626?style=for-the-badge&logo=discordjs"></a>
 </p>
