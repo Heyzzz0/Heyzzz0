@@ -5,4 +5,5 @@
 <p align="center">
   <a target="_blank" href="https://www.npmjs.com/package/discord.js"><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-262626?style=for-the-badge"></a>
   <a target="_blank" href="https://www.npmjs.com/package/mongoose"><img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-262626?style=for-the-badge"></a>
+  <a target="_blank" href="https://www.npmjs.com/package/express"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-262626?style=for-the-badge"></a>
 </p>
