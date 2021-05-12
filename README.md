@@ -8,4 +8,7 @@
   <a target="_blank" href="https://www.npmjs.com/package/express"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-262626?style=for-the-badge"></a>
 </p>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
