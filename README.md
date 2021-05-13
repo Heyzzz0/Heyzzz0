@@ -9,6 +9,7 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 20 mins    █████████████████████▓░░░   86.76 % 
+EJS          12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 <!--END_SECTION:waka-->
