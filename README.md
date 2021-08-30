@@ -9,6 +9,6 @@
 [![Discord.js](https://img.shields.io/badge/-Discord.js-262626?style=for-the-badge)](https://www.npmjs.com/package/discord.js) [![Mongoose](https://img.shields.io/badge/-Mongoose-262626?style=for-the-badge)](https://www.npmjs.com/package/mongoose) [![Express.js](https://img.shields.io/badge/-Express.js-262626?style=for-the-badge)](https://www.npmjs.com/package/express)
 <!--START_SECTION:waka-->
 ```text
-Other        9 mins          ███████████████████████▒░   93.95 % 
+Other        4 mins          ████████████████████████░   96.27 % 
 ```
 <!--END_SECTION:waka-->
