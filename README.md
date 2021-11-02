@@ -9,7 +9,7 @@
 [![Discord.js](https://img.shields.io/badge/-Discord.js-262626?style=for-the-badge)](https://www.npmjs.com/package/discord.js) [![Mongoose](https://img.shields.io/badge/-Mongoose-262626?style=for-the-badge)](https://www.npmjs.com/package/mongoose) [![Express.js](https://img.shields.io/badge/-Express.js-262626?style=for-the-badge)](https://www.npmjs.com/package/express)
 <!--START_SECTION:waka-->
 ```text
-Other       37 mins         █████████████▓░░░░░░░░░░░   54.55 % 
-Batchfile   30 mins         ███████████░░░░░░░░░░░░░░   44.56 % 
+Batchfile   1 hr 1 min      ██████████████████▓░░░░░░   74.52 % 
+Other       20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.48 % 
 ```
 <!--END_SECTION:waka-->
