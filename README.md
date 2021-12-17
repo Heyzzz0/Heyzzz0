@@ -9,8 +9,8 @@
 [![Discord.js](https://img.shields.io/badge/-Discord.js-262626?style=for-the-badge)](https://www.npmjs.com/package/discord.js) [![Mongoose](https://img.shields.io/badge/-Mongoose-262626?style=for-the-badge)](https://www.npmjs.com/package/mongoose) [![Express.js](https://img.shields.io/badge/-Express.js-262626?style=for-the-badge)](https://www.npmjs.com/package/express)
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 32 mins    █████████████████████▒░░░   85.30 % 
-Python       12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-EJS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JavaScript   3 hrs 22 mins   ███████████████████████▒░   92.71 % 
+Python       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+EJS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
