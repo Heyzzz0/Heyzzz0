@@ -5,6 +5,8 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-262626?style=for-the-badge&logo=javascript)
 [![Java](https://img.shields.io/badge/-Java-262626?style=for-the-badge&logo=openjdk)](https://java.com)
 
+<details>
+<summary>Stats</summary
 <!--START_SECTION:waka-->
 
 ```text
@@ -17,3 +19,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</details>
