@@ -1,9 +1,6 @@
 # Heyzzz  
 
-### Programming languages  
-
-![Javascript](https://img.shields.io/badge/-Javascript-262626?style=for-the-badge&logo=javascript)
-[![Java](https://img.shields.io/badge/-Java-262626?style=for-the-badge&logo=openjdk)](https://java.com)
+[![.](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)  
 
 <details>
 <summary>Stats</summary
