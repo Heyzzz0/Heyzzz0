@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     1 hr 49 mins    ██████████░░░░░░░░░░░░░░░   40.60 %
-TypeScript     1 hr 30 mins    ████████▒░░░░░░░░░░░░░░░░   33.50 %
-ActionScript   47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-Ezhil          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Bash           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript     2 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.51 %
+TypeScript     1 hr 53 mins    ███████▒░░░░░░░░░░░░░░░░░   29.48 %
+ActionScript   1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+SQL            17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Ezhil          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
