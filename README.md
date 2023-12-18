@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          44 mins         █████████████░░░░░░░░░░░░   51.92 %
-TypeScript   41 mins         ████████████░░░░░░░░░░░░░   47.85 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
