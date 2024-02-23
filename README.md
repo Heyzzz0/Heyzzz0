@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              11 mins         ███████████████░░░░░░░░░░   60.50 %
-Java Properties   7 mins          ██████████░░░░░░░░░░░░░░░   39.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
