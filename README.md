@@ -7,9 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   22 mins         ██████████████▒░░░░░░░░░░   57.07 %
-TypeScript        13 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 %
-JSON              3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+TypeScript   13 mins         ████████████████████▒░░░░   81.72 %
+JSON         3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
 ```
 
 <!--END_SECTION:waka-->
