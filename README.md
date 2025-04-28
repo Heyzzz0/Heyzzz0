@@ -7,11 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         4 hrs 17 mins   ████████████████▒░░░░░░░░   64.75 %
-CSS                1 hr 31 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-JSON               28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-WiX Installer      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Rich Text Format   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript    3 hrs 37 mins   ███████████████████▒░░░░░   77.11 %
+CSS           1 hr 3 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
