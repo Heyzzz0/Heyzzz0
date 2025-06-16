@@ -1,6 +1,6 @@
 # Heyzzz  
 
-[![.](https://skillicons.dev/icons?i=js,ts,nextjs,nestjs,mongodb)](https://skillicons.dev)  
+[![.](https://skillicons.dev/icons?i=ts,nextjs,nestjs,mongodb)](https://skillicons.dev)  
 
 <details>
 <summary>Stats</summary
