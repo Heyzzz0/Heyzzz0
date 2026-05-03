@@ -1,6 +1,6 @@
 # Heyzzz  
 
-[![.](https://skillicons.dev/icons?i=ts,nextjs,nestjs,mongodb)](https://skillicons.dev)  
+[![.](https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,expressjs,nextjs,mongodb,googlecloud)](https://builder.syvixor.com/)
 
 <details>
 <summary>Stats</summary
