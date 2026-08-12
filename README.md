@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        16 mins               █████████████████████░░░░   84.66 %
-TypeScript   2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Other   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
