@@ -7,7 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   15 mins               ██████████████░░░░░░░░░░░   56.02 %
+JavaScript   5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+Astro        4 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
+MDX          1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
 ```
 
 <!--END_SECTION:waka-->
